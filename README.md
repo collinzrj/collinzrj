@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Collin Zhang, I'm studying Computer Science and Econometrics at New York University. 
+
+- 🔭 I’m currently working on an collaborative whiteboard project [CoCreate](https://apps.apple.com/app/cocreate-draw-together/id1548911886).
+- 📫 How to reach me: rz1477@nyu.edu
 <!--
 **collinzrj/collinzrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
