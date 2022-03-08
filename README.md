@@ -2,7 +2,7 @@
 
 My name is Collin Zhang, I'm studying **Computer Science** and **Econometrics** at New York University. 
 
-- 🔭 I'm currently working as a Research Assistant at NYU Courant Institute of Mathematical Sciences on Zero-Knowledge Proof
+- 🔭 I'm currently working as a Research Assistant at NYU Courant on **Zero-Knowledge Proof**
 - Interested in **Computational Complexity** and **Cryptography**
 - 📫 How to reach me: collinzrj@gmail.com
 - Contributor of **Tensorflow**, **Keras** and **mmdetection**, looking forward to write more!
