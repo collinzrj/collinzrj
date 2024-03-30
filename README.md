@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Collin Zhang, I'm studying **Computer Science** and **Econometrics** at New York University. 
+My name is Collin Zhang, I'm a first year CS PhD student at Cornell University
 
-- 🔭 I'm currently working as a Research Assistant at NYU Courant on **Zero-Knowledge Proof**
+- 🔭 I'm currently working on machine learning security & privacy
 - Developer of the real-time collaborative whiteboard [CoCreate](https://apps.apple.com/tt/app/cocreate-draw-together/id1548911886)
 - Contributor of **Tensorflow**, **Keras** and **mmdetection**, looking forward to write more!
 - 📫 How to reach me: collinzrj@gmail.com
