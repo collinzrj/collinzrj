@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Collin Zhang, I'm a first year CS PhD student at Cornell University
+My name is Collin Zhang, I'm a second year CS PhD student at Cornell Tech, base NYC
 
 - 🔭 I'm currently working on machine learning security & privacy
 - Developer of the real-time collaborative whiteboard [CoCreate](https://apps.apple.com/tt/app/cocreate-draw-together/id1548911886)
